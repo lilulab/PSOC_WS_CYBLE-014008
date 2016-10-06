@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bf513839-0978-45d6-a56a-6ae539f98bab
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|157d4fc1-eeb0-441a-8376-a6a44e310366
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2e4a268f-f7f0-45aa-a959-fa03f1fa70bb
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|529696ee-dc7b-41ed-9674-569f230187c0
+D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\ViperHeadMotorBoard.cyprj|bd0ca14e-4a4c-4a8c-8fe0-e94f3af8bf5c

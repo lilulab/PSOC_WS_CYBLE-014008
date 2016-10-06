@@ -1,0 +1,110 @@
+Loading plugins phase: Elapsed time ==> 0s.190ms
+Initializing data phase: Elapsed time ==> 0s.000ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\ViperHeadMotorBoard.cyprj -d CYBLE-014008-00 -s D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
+<CYPRESSTAG name="Design elaboration results...">
+ADD: sdb.M0025: error: No input on Instance "CS1", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_803)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_64.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_803)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_64.2)
+
+ADD: sdb.M0025: error: No input on Instance "CS2", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_823)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_65.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_823)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_65.2)
+
+ADD: sdb.M0012: error: Terminals "D_1.A" connected to signal "Net_41" have mismatching types.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_41)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_5.2)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (y_0)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (A)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_8.9)
+
+ADD: sdb.M0025: error: No input on Instance "M_RESET", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_534)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_52.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_534)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_52.2)
+
+ADD: sdb.M0025: error: No input on Instance "EN_C", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_466)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_22.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_466)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_22.2)
+
+ADD: sdb.M0025: error: No input on Instance "PWM_C", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_456)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_21.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_456)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_21.2)
+
+ADD: sdb.M0025: error: No input on Instance "EN_B", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_446)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_20.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_446)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_20.2)
+
+ADD: sdb.M0025: error: No input on Instance "PWM_B", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_436)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_19.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_436)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_19.2)
+
+ADD: sdb.M0025: error: No input on Instance "EN_A", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_426)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_18.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_426)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_18.2)
+
+ADD: sdb.M0065: information: Analog terminal "ADC_SAR_Seq_1.vinMinus0" on TopDesign is unconnected.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_829)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_29.32)
+
+ADD: sdb.M0065: information: Analog terminal "ADC_SAR_Seq_1.vinMinus2" on TopDesign is unconnected.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_831)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_29.40)
+
+ADD: sdb.M0025: error: No input on Instance "M_SLEEP", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_535)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_23.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_535)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_23.2)
+
+ADD: sdb.M0065: information: Analog terminal "ADC_SAR_Seq_1.vinMinus1" on TopDesign is unconnected.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_830)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_29.34)
+
+ADD: sdb.M0025: error: No input on Instance "PWM_A", terminal "y_0".
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_416)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_17.2)
+
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_416)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_17.2)
+
+ADD: sdb.M0065: information: Analog terminal "ADC_SAR_Seq_1.vinMinus3" on TopDesign is unconnected.
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Signal: Net_832)
+ * D:\MyPSoC\CYBLE-014008\ViperHeadMotorBoard.cydsn\TopDesign\TopDesign.cysch (Shape_29.44)
+
+</CYPRESSTAG>
+Elaboration phase: Elapsed time ==> 1s.932ms
